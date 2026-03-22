@@ -3,6 +3,7 @@
 Deterministic prompt compression for LLM applications. Reduce token count and API costs with zero network calls, zero model inference, and zero runtime dependencies.
 
 [![npm version](https://img.shields.io/npm/v/prompt-optimize.svg)](https://www.npmjs.com/package/prompt-optimize)
+[![npm downloads](https://img.shields.io/npm/dt/prompt-optimize.svg)](https://www.npmjs.com/package/prompt-optimize)
 [![license](https://img.shields.io/npm/l/prompt-optimize.svg)](https://github.com/SiluPanda/prompt-optimize/blob/master/LICENSE)
 [![node](https://img.shields.io/node/v/prompt-optimize.svg)](https://nodejs.org)
 
